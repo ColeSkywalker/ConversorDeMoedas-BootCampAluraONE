@@ -1,8 +1,6 @@
 package main;
-
 import br.com.conversormoeda.model.Moeda;
 import com.google.gson.Gson;
-
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
@@ -23,10 +21,8 @@ public class ExchangeRateAPI {
         this.valor = valor;
     }
 
-
     public void realizarConversao() throws IOException, InterruptedException {
         String apiKey = "766f12303378d9faf1a6507b";
-
 
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create("https://v6.exchangerate-api.com/v6/"+ apiKey +"/pair/"+ moedaBase +"/" + moedaFinal))
