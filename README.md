@@ -1,4 +1,6 @@
 # Conversor de Moedas
+Projeto desenvolvido como parte do Bootcamp Oracle ONE em parceria com a Alura.
+
 ## ✅ Descrição
 
 Aplicativo de conversão de moedas feito em Java, rodando via console. O programa permite converter valores entre diversas moedas da América Latina e o Brasil, utilizando dados reais obtidos através da **API Exchange Rate**.
