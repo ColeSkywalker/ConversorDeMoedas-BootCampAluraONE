@@ -14,11 +14,11 @@ Aplicativo de conversão de moedas feito em Java, rodando via console. O program
 ## 🌎 Funcionalidades
 
 - Conversão entre as seguintes moedas:
-  - Dólar
-  - Peso argentino
-  - Peso colombiano
-  - Real Brasileiro
-  - Peso Chileno
+  - Dólar (USD)
+  - Peso argentino (ARS)
+  - Peso colombiano (COP)
+  - Real Brasileiro (BRL)
+  - Peso Chileno (CLP)
 
 ## 🛠️ Como executar
 
