@@ -1,7 +1,5 @@
 package main;
-
 import br.com.conversormoeda.service.ExchangeRateAPI;
-
 import java.io.IOException;
 import java.util.Scanner;
 
