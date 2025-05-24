@@ -1,4 +1,4 @@
-package main;
+package br.com.conversormoeda.service;
 import br.com.conversormoeda.model.Moeda;
 import com.google.gson.Gson;
 import java.io.IOException;
