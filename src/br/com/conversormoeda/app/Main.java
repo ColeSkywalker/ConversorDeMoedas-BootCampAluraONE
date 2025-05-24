@@ -1,4 +1,4 @@
-package main;
+package br.com.conversormoeda.app;
 import br.com.conversormoeda.service.ExchangeRateAPI;
 import java.io.IOException;
 import java.util.Scanner;
